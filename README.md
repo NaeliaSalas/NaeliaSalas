@@ -14,7 +14,7 @@ I am a Full Stack Developer student at Chas Academy, Stockholm <img src="https:/
 
 - :seedling: At the moment I am learning  Angular /JavaScript/ React / Node 
 
-- :zap: In my free time, I am trying to get a better undestanding of each framworke we are currently working with
+- :zap: In my free time, I am trying to get a better undestanding of each framework we are currently working with
 
 
 
