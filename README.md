@@ -33,4 +33,4 @@ https://nimble-marshmallow-3c8cb3.netlify.app/ - Recipe-app built with Angular, 
 
 https://relaxed-toffee-bd9b76.netlify.app - Weather-app built in react with OpenWeatherMap API.
 
-http://cinemah-site.herokuapp.com/ - IMDB clone teamwork built with Laravel
+http://cinemah-site.herokuapp.com/ - IMDB clone teamwork built with Laravel, I handled the backend parts of login,register, logout and admin part
