@@ -10,9 +10,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer student at Chas Academy, Stockholm <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Studying a 2 year education to become a Full Stack developer .
-
-- :seedling: At the moment I am learning  Angular /JavaScript/ React / Node 
+- :telescope: Studying a 2 year Full Stack developer .
 
 - :zap: In my free time, I am trying to get a better undestanding of each framework we are currently working with
 
