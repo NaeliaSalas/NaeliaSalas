@@ -8,9 +8,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer student at Chas Academy, Stockholm <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I have recently joined the amazing team at Enspirit in Barcelona, Spain after finishing a 2 years Fullstack course in Stockholm <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Studying a 2 year Full Stack developer .
+- :telescope: Junior Fullstack developer.
 
 - :zap: In my free time, I am trying to get a better undestanding of each framework we are currently working with
 
